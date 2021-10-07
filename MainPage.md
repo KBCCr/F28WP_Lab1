@@ -11,7 +11,7 @@
     <p>The details for the two dragons shown on this page are also shown on this page are also on the linked page</p>
     <a href="aboutPage.md">About Page</a>
     
-    <img src="acidDragon_MainPage.png" alt="Fantasy Acid Dragon">
-    <img src="shadowDragon_MainPage.png" alt="Fantasy Shadow Dragon">
+    <img id="Left" src="acidDragon_MainPage.png" alt="Fantasy Acid Dragon">
+    <img id="Right" src="shadowDragon_MainPage.png" alt="Fantasy Shadow Dragon">
   </body>
 </html>
