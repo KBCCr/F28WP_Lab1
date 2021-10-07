@@ -12,6 +12,6 @@
     
     ![alt text](acidDragon_MainPage.png "Fantasy Acid Dragon")
     
-    ![alt text]( "Fantasy Shadow Dragon")
+    ![alt text](shadowDragon_MainPage.png "Fantasy Shadow Dragon")
   </body>
 </html>
