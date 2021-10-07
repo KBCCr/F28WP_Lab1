@@ -4,12 +4,39 @@ body {
 
 h1 { 
     color: red;
+    font-family: "Times New Roman", serif;
 }
 
 h3 {
     color: blue;
+    font-family: "Times New Roman", serif;
 }
 
 p { 
    color: ivory;
+    font-family: "Verdana", sans-serif;
+}
+
+#Fire {
+    color: red;
+}
+
+#Water {
+    color: blue
+}
+
+#Air {
+    color: white;
+}
+
+#Dark {
+    color: lightpurple;
+}
+
+#Metal {
+    color: bronze;
+}
+
+#Real {
+    color: green;
 }
