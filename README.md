@@ -1,4 +1,12 @@
 # F28WP_Lab1
+
+<a href="MainPage.md">Main Page</a>
+
+
+
+
+
+
 First piece of coursework for Web Programming, worth 10% of the course.
 
 This file will be written using the markdown format.
