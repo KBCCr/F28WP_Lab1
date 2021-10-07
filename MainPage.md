@@ -1,4 +1,3 @@
-<!DCOTYPE html>
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
@@ -11,8 +10,8 @@
     <p>The details for the two dragons shown on this page are also shown on this page are also on the linked page</p>
     <a href="aboutPage.md">About Page</a>
     
-    <img id="Left" src="acidDragon_MainPage.png" alt="Fantasy Acid Dragon">
-    ![alt text](https://github.com/KBCCr/F28WP_Lab1/main/acidDragon_MainPage.png "Fantasy Acid Dragon")
-    <img id="Right" src="shadowDragon_MainPage.png" alt="Fantasy Shadow Dragon">
+    ![alt text](acidDragon_MainPage.png "Fantasy Acid Dragon")
+    
+    ![alt text]( "Fantasy Shadow Dragon")
   </body>
 </html>
